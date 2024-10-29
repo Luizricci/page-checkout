@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+}
+.header-section-1{
+display: flex;
+width: 50%;
+height: 100px;
+background-color: #c4c4c4;
+}
+.div-init-header{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: #c4c4c4;
+
+}
+.logo-user{
+    display: flex;;
+    justify-content: space-between;
+    width: 6.87rem;
+    align-items: center;
+    padding: 1rem 2rem;
+}
+.sacola-compras{
+    display: flex;
+    justify-content: space-between;
+    width: 6.87rem;
+    align-items: center;
+    padding: 1rem 2rem;
+}
+
+.arrow-back{
+    display: flex;
+    justify-content: space-between;
+    width: 6.87rem;
+    align-items: center;
+    padding: 1rem 2rem;
+    rotate: 180deg;
+}
+.div-arrow{
+    display: flex;
+    justify-content: end;
+    width: 6.87rem;
+    align-items: center;
+    padding: 1rem 2rem;
+    width: 40rem;
+}
+.header-section-2{
+    display: flex;
+    width: 50%;
+    height: 300;
+    background-color: black;
+}
+
+.h1-header-2{
+    color: white;
+    font-size: 2rem;
+    padding: 2rem 3rem;
+}
+.menu-hamburguer{
+    display: flex;;
+    justify-content: end;
+    align-items: center;
+    padding: 1rem 37rem;
+}
+
+.main-01{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f8f8;
+}
+
+.section-1 {
+    background-color: #c4c4c4;
+    width: 50%;
+    height: 60rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.div-section-1{
+    display: flex;
+    align-items: center;
+    background-color: #f2efe5;
+    width: 80%;
+    height: 80%;
+    justify-content: center;
+    align-items: center;
+}
+.box-div{
+    background-color: #c4c4c48e;
+    width: 90%;
+    height: 25%;
+    display: flex;
+    border-radius: 20px;
+}
+.img-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
